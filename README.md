@@ -21,7 +21,7 @@
 
 ## Summary
 ##### 1. Drawback: The source data is static / limited to a specific year. The input elements (text box) don’t provide information of the possible values that can be selected as filters.
-##### 2. Recommendations:
+###### 2. Recommendations:
 ###### 2a. Use web scrapping to update source data
 ###### 2b. Instead of text box as input elements, use drop downs with placeholders’ values to provide information to users about the possible input filters.
 
