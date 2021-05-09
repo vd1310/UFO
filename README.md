@@ -10,11 +10,13 @@
 ###### 5. Shape
 
 
-## Results: 
+### Results: The webpage allows users to enter the multiple filters based on date, city, state, country or shape and then dispaly the results in the UFO table as per the selected filters. When the user enters the filters, the JS code will save the input values in the test box along with the element ids in an JS object. The event listeners in the code will dtect the change in the text box values and trigger the filter function to update the table as per the selected criteria. Below are the results based on the input criteria or filters:
 
-#### 1.
+###### 1. Single criteria / one filter: Lets say user enters only one filter which is shape = 'triangle' and press enters. The table on the page will display the rows which have teh shape of 'triangle'
+![image](https://user-images.githubusercontent.com/78820105/117557114-c1738880-b03d-11eb-8276-1a203c9408fb.png)
 
-![alt text]()
+###### 2. Multiple criteria / filters: Lets say user enters date = '1/4/2010', state = 'ca' and shape = ' light', the table will display only two results as shown below. This was user can narrow down the search to more specific criteria: 
+![image](https://user-images.githubusercontent.com/78820105/117557114-c1738880-b03d-11eb-8276-1a203c9408fb.png)
 
 
 ## Summary
